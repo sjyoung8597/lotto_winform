@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Lotto.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LottoApiUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.nlotto.co.kr/common.do?method=getLottoNumber&amp;drwNo=</Value>
+    </Setting>
+    <Setting Name="SearchLottoWinUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://search.naver.com/search.naver?where=nexearch&amp;sm=top_hty&amp;fbm=1&amp;ie=utf8&amp;query=</Value>
+    </Setting>
+    <Setting Name="DefaultLottoCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">45</Value>
+    </Setting>
+    <Setting Name="DefaultWinCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="LottoPasingUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://dhlottery.co.kr/gameResult.do?method=byWin&amp;drwNo=</Value>
+    </Setting>
+    <Setting Name="LottoApiUrl2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://dhlottery.co.kr/common.do?method=getLottoNumber&amp;drwNo=</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
